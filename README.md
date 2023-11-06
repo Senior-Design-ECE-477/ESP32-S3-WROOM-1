@@ -1,6 +1,9 @@
 # Cloud Authenticated Fingerprint Scanner (CAFS)
 
-All code in this Repository is to be flashed onto a ESP32 microcontroller for working access. This repository has been built and tested on the Adafruit ESP32 Feather V2 with ESP IDF v5.2.2.
+DO NOT CHANGE ANYTHING IN THIS CODE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+seriously do not touch sdkconfig file or else we cannot push to pcb
+
+All code in this Repository is to be flashed onto a ESP32 microcontroller for working access. This repository has been built and tested on the ESP32-S3-Wroom-1
 
 ## Installation
 
